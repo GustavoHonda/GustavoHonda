@@ -1,3 +1,18 @@
+## My Stats
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoHonda&theme=dark&background=000000"/>
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHonda&layout=compact"/>
+</a>
+
+</div>
+
+
 ## Main Topics
 - Machine Learning
 - Data Analisis
